@@ -1,10 +1,5 @@
 # DiscreteOrdinateModel_P1Approximation_Radiation_Model
-This repository contains the source code of Discrete Ordinates Model and P1 Approximation submitted as part of MPhil dissertation at the University of Cambridge.
-
-P1 and Discrete Ordinates Validation Code
-==========================================
-
-This folder contains the finite-volume P1 and Discrete Ordinates Model implementations used for the validation and model-comparison part of the thesis. The same mesh, sparse-matrix and finite-volume framework is shared by both radiation models.
+This repository contains the source code of Discrete Ordinates Model and P1 Approximation submitted as part of MPhil dissertation at the University of Cambridge. This folder contains the finite-volume P1 and Discrete Ordinates Model implementations used for the validation and model-comparison part of the thesis. The same mesh, sparse-matrix and finite-volume framework is shared by both radiation models.
 
 Requirements
 ------------
