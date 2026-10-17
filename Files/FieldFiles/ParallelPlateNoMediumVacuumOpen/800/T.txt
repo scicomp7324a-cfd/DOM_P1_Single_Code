@@ -1,0 +1,43 @@
+field T
+nCells 1000
+
+internalField uniform 0.0
+
+boundaryField
+{
+  top
+  {
+    type fixedValue
+    value uniform 0.0
+  }
+
+  bottom
+  {
+    type fixedValue
+    value uniform 0.0
+  }
+
+  north
+  {
+    type fixedValue
+    value uniform 0.0
+  }
+
+  south
+  {
+    type fixedValue
+    value uniform 0.0
+  }
+
+  east
+  {
+    type fixedValue
+    value uniform 800.0
+  }
+
+  west
+  {
+    type fixedValue
+    value uniform 1000.0
+  }
+}

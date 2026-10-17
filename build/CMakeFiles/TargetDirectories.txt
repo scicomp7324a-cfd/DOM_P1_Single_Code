@@ -1,0 +1,3 @@
+/Users/amitanshusahoo/Desktop/MPhil/Project/DOM/WorkingModel/DOM_P1_Single_Code/build/CMakeFiles/p1_app.dir
+/Users/amitanshusahoo/Desktop/MPhil/Project/DOM/WorkingModel/DOM_P1_Single_Code/build/CMakeFiles/edit_cache.dir
+/Users/amitanshusahoo/Desktop/MPhil/Project/DOM/WorkingModel/DOM_P1_Single_Code/build/CMakeFiles/rebuild_cache.dir
